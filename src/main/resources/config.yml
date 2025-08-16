@@ -1,0 +1,6 @@
+interval-minutes: 10
+broadcast-removal: true
+whitelist:
+  - DIAMOND
+  - GOLD_INGOT
+  - EMERALD
